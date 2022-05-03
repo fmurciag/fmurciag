@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-<img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" align="right" width="480" height="480"/>
-
+<img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" align="right" width="200" height="200"/>
+I'm auniversity student, coursing Computer Engineering in [Universidad de Alicante](https://www.ua.es/)
 <!--
 **fmurciag/fmurciag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
