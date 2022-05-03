@@ -11,6 +11,10 @@ In this repositoryb! you will find my personal projects and my universitys jobs
 - 🎓 I'm currently focus in finish my studies
 - 🔭 I’m looking for improve my knowledge every day
 - 👯 I like team work
+
+
+
+![](https://komarev.com/ghpvc/?username=fmurciag)
 <!--
 
 Here are some ideas to get you started:
