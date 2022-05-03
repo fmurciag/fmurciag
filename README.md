@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## 👽I'm Fran Murcia👽
+## I'm Fran Murcia 👽
 
 <img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" align="right" width="200" height="200"/>
 I'm auniversity student, coursing Computer Engineering in [Universidad de Alicante](https://www.ua.es/) and this is my personal repository
