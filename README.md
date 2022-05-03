@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-<img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" align="right" width="130" height="130"/>
+<img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" align="right" width="480" height="480"/>
 
 <!--
 **fmurciag/fmurciag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
