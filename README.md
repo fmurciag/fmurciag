@@ -2,7 +2,7 @@
 
 ## I'm Fran Murcia 👽
 
-<img src="https://i.kym-cdn.com/photos/images/original/001/812/497/485.gif" width="200" height="200"/>
+
 <!--
 I'm auniversity student, coursing Computer Engineering in <a href="https://www.ua.es/">Universidad de Alicante</a> and this is my personal repository
 
